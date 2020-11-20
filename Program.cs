@@ -6,7 +6,7 @@ namespace CeasarCipher
     {
         static void Main(string[] args)
         {
-            ;
+            
         }
     }
 }
