@@ -13,6 +13,7 @@ namespace CeasarCipher
 
             try
             {
+
                 do
                 {
                     Console.WriteLine("inserisci la chiave");
